@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+yolo_env/
+venv/
+.env/
+
+# Models
+*.pt
+*.onnx
+*.data
+
+# Captures
+captures/
+
+# Misc
+*.log
